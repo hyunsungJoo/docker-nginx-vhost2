@@ -94,5 +94,9 @@ $ curl http://localhost:8001
 <h1>A</h1>
 ```
 
+###nginx path routing
+```
+```
+
 # ref
 - https://hub.docker.com/
